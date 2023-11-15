@@ -1,0 +1,14 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+}
+#canvas1{
+    background-color: azure;
+    border-radius: 5px;
+    background-position: center;
+    border-style: ridge;
+
+}
+body{
+    cursor:pointer;
+}
